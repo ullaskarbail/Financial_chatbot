@@ -546,4 +546,3 @@ For support and questions:
 
 ---
 
-**Note**: This chatbot provides educational financial advice and should not be considered as professional financial consultation. Always consult with qualified financial advisors for personalized financial planning.
