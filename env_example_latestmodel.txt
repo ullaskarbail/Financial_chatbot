@@ -1,0 +1,12 @@
+# Hugging Face Configuration
+HUGGINGFACE_TOKEN=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
+
+# WatsonX Model Configuration (via Hugging Face)
+WATSONX_MODEL_NAME=ibm-granite/granite-speech-3.3-8b
+NLU_MODEL_NAME=cardiffnlp/twitter-roberta-base-sentiment-latest
+NER_MODEL_NAME=dslim/bert-base-NER
+
+# Application Settings
+FASTAPI_HOST=0.0.0.0
+FASTAPI_PORT=8000
+STREAMLIT_PORT=8501
